@@ -8,8 +8,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char *ssid = "RNSS";
-const char *password = "HighGradePass@2025";
+const char *ssid = "";
+const char *password = "";
 
 void startCameraServer();
 
